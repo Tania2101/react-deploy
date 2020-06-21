@@ -1,0 +1,19 @@
+:root{
+  --mainDark: #2c2c2c;
+  --mainGrey: rgba(109, 109, 109);
+  --mainLightGrey: rgba(172, 172, 172);
+  --mainWhite: #fff;
+  --mainBlue: #007bff;
+}
+
+.content
+{
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.head
+{
+  padding-top: 20px;
+  text-align: center;
+}
